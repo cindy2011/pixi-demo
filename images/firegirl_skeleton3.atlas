@@ -1,0 +1,139 @@
+
+firegirl_skeleton3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg01
+  rotate: false
+  xy: 1546, 527
+  size: 384, 165
+  orig: 384, 165
+  offset: 0, 0
+  index: -1
+bg02f00000
+  rotate: false
+  xy: 2, 694
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00001
+  rotate: false
+  xy: 2, 521
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00002
+  rotate: false
+  xy: 388, 694
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00003
+  rotate: false
+  xy: 2, 348
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00004
+  rotate: false
+  xy: 388, 521
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00005
+  rotate: false
+  xy: 774, 694
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00006
+  rotate: false
+  xy: 2, 175
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00007
+  rotate: false
+  xy: 388, 348
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00008
+  rotate: false
+  xy: 774, 521
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00009
+  rotate: false
+  xy: 1160, 694
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00010
+  rotate: false
+  xy: 2, 2
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00011
+  rotate: false
+  xy: 388, 175
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00012
+  rotate: false
+  xy: 774, 348
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00013
+  rotate: false
+  xy: 1160, 521
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00014
+  rotate: false
+  xy: 1546, 694
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00015
+  rotate: false
+  xy: 388, 2
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00016
+  rotate: false
+  xy: 774, 175
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1
+bg02f00017
+  rotate: false
+  xy: 1160, 348
+  size: 384, 171
+  orig: 384, 171
+  offset: 0, 0
+  index: -1

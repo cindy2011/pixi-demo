@@ -1,0 +1,48 @@
+
+firegirl_skeleton_sp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sp0
+  rotate: false
+  xy: 2, 16
+  size: 240, 232
+  orig: 240, 232
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 244, 22
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+sp2
+  rotate: false
+  xy: 2, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+sp3
+  rotate: false
+  xy: 244, 54
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+sp4
+  rotate: false
+  xy: 412, 207
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+spbg
+  rotate: false
+  xy: 244, 97
+  size: 166, 151
+  orig: 166, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+{
+"skeleton": { "hash": "LnOyKS9TX6gOOFL1qWiV2IutCCI", "spine": "2.1.27", "width": 1920, "height": 856.17, "images": "./firegirl/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone70", "parent": "root", "length": 448.44, "y": -113.34, "scaleX": 5, "scaleY": 5, "rotation": 90 }
+],
+"slots": [
+	{ "name": "bg02", "bone": "bone70", "attachment": "bg02f00015" },
+	{ "name": "bg01", "bone": "root", "attachment": "bg01" }
+],
+"skins": {
+	"default": {
+		"bg01": {
+			"bg01": { "y": -129.51, "scaleX": 5, "scaleY": 5, "width": 384, "height": 165 }
+		},
+		"bg02": {
+			"bg02f00000": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00001": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00002": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00003": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00004": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00005": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00006": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00007": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00008": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00009": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00010": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00011": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00012": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00013": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00014": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00015": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00016": { "rotation": -90, "width": 384, "height": 171 },
+			"bg02f00017": { "rotation": -90, "width": 384, "height": 171 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"bg02": {
+				"attachment": [
+					{ "time": 0, "name": "bg02f00000" },
+					{ "time": 0.0666, "name": "bg02f00001" },
+					{ "time": 0.1, "name": "bg02f00002" },
+					{ "time": 0.1666, "name": "bg02f00003" },
+					{ "time": 0.2333, "name": "bg02f00004" },
+					{ "time": 0.3, "name": "bg02f00005" },
+					{ "time": 0.3333, "name": "bg02f00006" },
+					{ "time": 0.4, "name": "bg02f00007" },
+					{ "time": 0.4666, "name": "bg02f00008" },
+					{ "time": 0.5, "name": "bg02f00009" },
+					{ "time": 0.5666, "name": "bg02f00010" },
+					{ "time": 0.6333, "name": "bg02f00011" },
+					{ "time": 0.6666, "name": "bg02f00012" },
+					{ "time": 0.7333, "name": "bg02f00013" },
+					{ "time": 0.8, "name": "bg02f00014" },
+					{ "time": 0.8666, "name": "bg02f00015" },
+					{ "time": 0.9, "name": "bg02f00016" },
+					{ "time": 0.9666, "name": "bg02f00017" },
+					{ "time": 1.0333, "name": "bg02f00000" },
+					{ "time": 1.0666, "name": "bg02f00001" },
+					{ "time": 1.1333, "name": "bg02f00002" },
+					{ "time": 1.2, "name": "bg02f00003" },
+					{ "time": 1.2333, "name": "bg02f00004" },
+					{ "time": 1.3, "name": "bg02f00005" },
+					{ "time": 1.3666, "name": "bg02f00006" },
+					{ "time": 1.4333, "name": "bg02f00007" },
+					{ "time": 1.4666, "name": "bg02f00008" },
+					{ "time": 1.5333, "name": "bg02f00009" },
+					{ "time": 1.6, "name": "bg02f00010" },
+					{ "time": 1.6333, "name": "bg02f00011" },
+					{ "time": 1.7, "name": "bg02f00012" },
+					{ "time": 1.7666, "name": "bg02f00013" },
+					{ "time": 1.8, "name": "bg02f00014" },
+					{ "time": 1.8666, "name": "bg02f00015" },
+					{ "time": 1.9333, "name": "bg02f00016" },
+					{ "time": 2, "name": "bg02f00017" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"bone70": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

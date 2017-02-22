@@ -1,0 +1,139 @@
+
+firegirl_skeleton1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 393, 120
+  size: 101, 152
+  orig: 101, 152
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 816, 602
+  size: 217, 190
+  orig: 217, 190
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 393, 223
+  size: 269, 131
+  orig: 269, 131
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 414, 794
+  size: 752, 226
+  orig: 752, 226
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 414, 356
+  size: 320, 231
+  orig: 320, 231
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1516, 810
+  size: 297, 210
+  orig: 297, 210
+  offset: 0, 0
+  index: -1
+07a
+  rotate: false
+  xy: 414, 589
+  size: 400, 203
+  orig: 400, 203
+  offset: 0, 0
+  index: -1
+07b
+  rotate: true
+  xy: 1815, 864
+  size: 156, 213
+  orig: 156, 213
+  offset: 0, 0
+  index: -1
+07c
+  rotate: true
+  xy: 2, 108
+  size: 250, 389
+  orig: 250, 389
+  offset: 0, 0
+  index: -1
+07d
+  rotate: false
+  xy: 2, 360
+  size: 410, 660
+  orig: 410, 660
+  offset: 0, 0
+  index: -1
+07e
+  rotate: false
+  xy: 664, 242
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+07f
+  rotate: false
+  xy: 1035, 607
+  size: 164, 185
+  orig: 164, 185
+  offset: 0, 0
+  index: -1
+07g
+  rotate: false
+  xy: 1201, 647
+  size: 165, 162
+  orig: 165, 162
+  offset: 0, 0
+  index: -1
+07h
+  rotate: false
+  xy: 1368, 666
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+07i
+  rotate: true
+  xy: 2, 11
+  size: 95, 169
+  orig: 95, 169
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1168, 811
+  size: 346, 209
+  orig: 346, 209
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 173, 2
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 736, 447
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 842, 496
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
